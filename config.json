@@ -1,6 +1,6 @@
 {
   "serverHost": "aksuwe1.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "IceLaterBot",
+  "serverPort": 54923,
+  "botUsername": "afkbot",
   "botChunk": 1
 }
